@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Masonry with Ajax Loading</title>
+		<description><![CDATA[Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag & drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!]]></description>
+		<link>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading</link>
+		<lastBuildDate>Sat, 04 Jan 2020 08:07:32 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>aplikko@gmail.com (Flex)</managingEditor>
+	</channel>
+</rss>
