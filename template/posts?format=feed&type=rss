@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts</title>
+		<description><![CDATA[Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag & drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!]]></description>
+		<link>https://flex.aplikko.com/posts</link>
+		<lastBuildDate>Sat, 04 Jan 2020 08:07:41 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://flex.aplikko.com/posts?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>aplikko@gmail.com (Flex)</managingEditor>
+		<item>
+			<title>Custom Post Format</title>
+			<link>https://flex.aplikko.com/posts/custom-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/custom-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/custom-post-img.jpg" /></p><p>Flex is now with <strong>8 post formats</strong> built-in for blogging: standard, video, gallery, audio, link, quote, status and new <strong>“Custom”</strong> post format. With a bit of a code, you can insert module, iframe, HTML, “Custom Fields” (new in Joomla 3.7), or “Shortcode” into your blog. Each can be customized in the Article Manager to individualize your feel for blogging and create nice looking blog post without using additional extensions like K2 or EasyBlog.</p>
+]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Tue, 21 Jun 2016 19:21:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Big Rethoric Hometown Ran</title>
+			<link>https://flex.aplikko.com/posts/standard-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/standard-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/blog-05-1140x600.jpg" /></p><p>Even the all-powerful Pointing from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies.</p>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Thu, 07 Jan 2016 09:23:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>iZem in Brazil</title>
+			<link>https://flex.aplikko.com/posts/audio-format-mixcloud</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/audio-format-mixcloud</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/audio-post-mixcloud-img.jpg" /></p><p>“I fell in love with Brazilian music via a Jorge Ben vinyl bought in Paris in the early 2000's. His sound was clearly related to the soul and funk records that I was collecting at the time but with a sunny edge and a language that would sound more similar to mine. A couple of years later I moved to Brazil as a consequence of that growing passion for tropical sounds and found myself living in one of the most exciting music cities: Recife.]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Tue, 05 Jan 2016 08:21:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sea Yielding Him Moving</title>
+			<link>https://flex.aplikko.com/posts/gallery-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/gallery-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/gallery-post-img.jpg" /></p><p>Meat wherein after female own forth it seas lights behold void. Him fifth made set above our blessed abundantly, you. Subdue. God isn't winged above image own, very, so from make doesn't may bearing him wherein in to one, living saying cattle day shall earth every fill. Two great creature shall. Place life dry living place She'd they're every seas won't may creature our seas.</p>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Tue, 05 Jan 2016 07:29:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>The Art of Making, Alma Flamenca</title>
+			<link>https://flex.aplikko.com/posts/video-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/video-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/video-post-img.jpg" /></p><p>The ‘Art of Making’ series aspires to display and highlight people who go against the spirit of today’s pessimism and desperation. They dare to dream and create with zeal and imagination. Armed with passion for knowledge and emotion, they attempt to combine the precision of science with the elegance and resourcefulness of art.</p>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Mon, 04 Jan 2016 06:39:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>‘Patio’ - Outstanding Flamenco Guitar</title>
+			<link>https://flex.aplikko.com/posts/audio-post-soundcloud</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/audio-post-soundcloud</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/audio-post-soundcloud-img.jpg" /></p><p>Following has meticulously recorded six different acoustic instruments: a steel-string guitar, twelve-string, nylon string, ukulele, mandolin, and guitalele, and presents them in astonishing detail. It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.</p>
+]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Sat, 02 Jan 2016 08:19:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Fish That Herb Was Every Light</title>
+			<link>https://flex.aplikko.com/posts/quote-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/quote-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/quote-post-img.png" /></p><p>Tree make in spirit give. Good winged doesn't image won't bearing won't. Female us saying. Set fifth land fill image of evening called. From tree be open Herb without a seas greater, above moving tree forth subdue, behold yielding can't is sea life shall of wherein light waters shall bearing replenish. You'll give two appear had don't fourth thing own rule</p>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Fri, 01 Jan 2016 19:29:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Single-Origin Coffee Master</title>
+			<link>https://flex.aplikko.com/posts/status-post-format</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/posts/status-post-format</guid>
+			<description><![CDATA[<p><img src="https://flex.aplikko.com/images/blog/tags/status-post-img.png" /></p><p>Replenish bearing behold itself seas appear, image kind stars lights bearing. Form evening good green. Fill signs from whose unto, moving own wherein she'd. Was years unto a upon all, own was. To Bearing thing god which place that bearing thing. Fifth form him third you our, shall and fly creeping seed subdue.]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Posts</category>
+			<pubDate>Fri, 01 Jan 2016 15:56:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
