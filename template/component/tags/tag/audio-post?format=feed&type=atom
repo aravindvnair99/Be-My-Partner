@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Flex</title>
+	<subtitle type="text">Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag &amp; drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!</subtitle>
+	<link rel="alternate" type="text/html" href="https://flex.aplikko.com"/>
+	<id>https://flex.aplikko.com/component/tags/tag/audio-post</id>
+	<updated>2020-01-04T08:08:22+00:00</updated>
+	<author>
+		<name>Flex</name>
+		<email>aplikko@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://flex.aplikko.com/component/tags/tag/audio-post?format=feed&amp;type=atom"/>
+	<entry>
+		<title>‘Patio’ - Outstanding Flamenco Guitar</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/posts/audio-post-soundcloud"/>
+		<published>2016-01-03T08:19:00+00:00</published>
+		<updated>2016-01-03T08:19:00+00:00</updated>
+		<id>https://flex.aplikko.com/posts/audio-post-soundcloud</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;Following has meticulously recorded six different acoustic instruments: a steel-string guitar, twelve-string, nylon string, ukulele, mandolin, and guitalele, and presents them in astonishing detail. It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Following has meticulously recorded six different acoustic instruments: a steel-string guitar, twelve-string, nylon string, ukulele, mandolin, and guitalele, and presents them in astonishing detail. It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;
+</content>
+		<category term="‘Patio’ - Outstanding Flamenco Guitar" />
+	</entry>
+	<entry>
+		<title>iZem in Brazil</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/posts/audio-format-mixcloud"/>
+		<published>2015-06-06T07:25:00+00:00</published>
+		<updated>2015-06-06T07:25:00+00:00</updated>
+		<id>https://flex.aplikko.com/posts/audio-format-mixcloud</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;“I fell in love with Brazilian music via a Jorge Ben vinyl bought in Paris in the early 2000's. His sound was clearly related to the soul and funk records that I was collecting at the time but with a sunny edge and a language that would sound more similar to mine. A couple of years later I moved to Brazil as a consequence of that growing passion for tropical sounds and found myself living in one of the most exciting music cities: Recife.</summary>
+		<content type="html">&lt;p&gt;“I fell in love with Brazilian music via a Jorge Ben vinyl bought in Paris in the early 2000's. His sound was clearly related to the soul and funk records that I was collecting at the time but with a sunny edge and a language that would sound more similar to mine. A couple of years later I moved to Brazil as a consequence of that growing passion for tropical sounds and found myself living in one of the most exciting music cities: Recife.</content>
+		<category term="iZem in Brazil" />
+	</entry>
+	<entry>
+		<title>Wholetones 527Hz Transformation Music</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/49-wholetones-527hz-transformation"/>
+		<published>2018-05-02T20:18:12+00:00</published>
+		<updated>2018-05-02T20:18:12+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/49-wholetones-527hz-transformation</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span&gt;The frequencies have been handed down from ancient, Biblical times and are believed to have been used by King David to soothe Saul in his desperate time of need for healing. Now you too can have this blessed collection of modern music with ancient healing powers. &lt;/span&gt;It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span&gt;The frequencies have been handed down from ancient, Biblical times and are believed to have been used by King David to soothe Saul in his desperate time of need for healing. Now you too can have this blessed collection of modern music with ancient healing powers. &lt;/span&gt;It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;</content>
+		<category term="Wholetones 527Hz Transformation Music" />
+	</entry>
+	<entry>
+		<title>Best of 5 Instrumental Music Recordings</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/50-best-of-5-instrumental-music-recordings"/>
+		<published>2018-05-02T20:18:12+00:00</published>
+		<updated>2018-05-02T20:18:12+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/50-best-of-5-instrumental-music-recordings</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span&gt;If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is you like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span&gt;If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is you like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Best of 5 Instrumental Music Recordings" />
+	</entry>
+</feed>
