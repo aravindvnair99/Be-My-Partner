@@ -12,8 +12,8 @@ app.set("view engine", "ejs");
 var db = admin.firestore();
 
 
-app.get("/login", (req, res) => {
-	res.render("login");
+app.get("/", (req, res) => {
+	res.render("index");
 });
 
 app.post("/onLogin", (req, res) => {
