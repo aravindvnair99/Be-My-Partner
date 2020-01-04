@@ -4,13 +4,12 @@
 	"description": "Be My Partner",
 	"keywords": [
 		"website",
-    "services",
-    "charity"
+		"services",
+		"charity"
 	],
 	"man": [
 		"../README.MD"
 	],
-	
 	"author": "Contributors",
 	"contributors": [
 		{
