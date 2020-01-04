@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Masonry with Ajax Loading</title>
+	<subtitle type="text">Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag &amp; drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!</subtitle>
+	<link rel="alternate" type="text/html" href="https://flex.aplikko.com"/>
+	<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment</id>
+	<updated>2020-01-04T08:15:24+00:00</updated>
+	<author>
+		<name>Flex</name>
+		<email>aplikko@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Wholetones 527Hz Transformation Music</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/49-wholetones-527hz-transformation"/>
+		<published>2018-05-02T20:18:12+00:00</published>
+		<updated>2018-05-02T20:18:12+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/49-wholetones-527hz-transformation</id>
+		<author>
+			<name>Flex</name>
+			<email>flex@website.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://i1.sndcdn.com/artworks-000263312543-3pwdq9-t500x500.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The frequencies have been handed down from ancient, Biblical times and are believed to have been used by King David to soothe Saul in his desperate time of need for healing. Now you too can have this blessed collection of modern music with ancient healing powers. &lt;/span&gt;It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://i1.sndcdn.com/artworks-000263312543-3pwdq9-t500x500.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The frequencies have been handed down from ancient, Biblical times and are believed to have been used by King David to soothe Saul in his desperate time of need for healing. Now you too can have this blessed collection of modern music with ancient healing powers. &lt;/span&gt;It features both plectrum and finger picking, and Blumlein stereo recordings alongside the piezo pickup perspective.&lt;/p&gt;</content>
+		<category term="Entertainment" />
+	</entry>
+	<entry>
+		<title>Best of 5 Instrumental Music Recordings</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/50-best-of-5-instrumental-music-recordings"/>
+		<published>2018-05-02T20:18:12+00:00</published>
+		<updated>2018-05-02T20:18:12+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/29-entertainment/50-best-of-5-instrumental-music-recordings</id>
+		<author>
+			<name>Flex</name>
+			<email>flex@website.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/5/4/8/cbcd-39f2-4d70-8e1a-30da77b2e6d7&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is you like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/5/4/8/cbcd-39f2-4d70-8e1a-30da77b2e6d7&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you have enough people wanting to attend the same course then we can run one just for you. If you prefer to study in your own time and at your own speed then one of our e learning packages may be right up your street. There is a third option, which is you like the sound of both but perhaps can’t attend all training sessions, this is when blended learning comes into its own.&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Entertainment" />
+	</entry>
+</feed>

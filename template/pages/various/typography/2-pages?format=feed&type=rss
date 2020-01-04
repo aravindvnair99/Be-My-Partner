@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Typography</title>
+		<description><![CDATA[Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag & drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!]]></description>
+		<link>https://flex.aplikko.com/pages/various/typography/2-pages</link>
+		<lastBuildDate>Sat, 04 Jan 2020 08:13:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://flex.aplikko.com/pages/various/typography/2-pages?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>aplikko@gmail.com (Flex)</managingEditor>
+		<item>
+			<title>GDPR Privacy Policy</title>
+			<link>https://flex.aplikko.com/pages/various/gdpr-privacy-policy</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/pages/various/gdpr-privacy-policy</guid>
+			<description><![CDATA[<p><img src="https://picsum.photos/640/380?image=341" /></p>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Pages</category>
+			<pubDate>Fri, 27 Apr 2018 07:31:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Typography</title>
+			<link>https://flex.aplikko.com/pages/various/typography</link>
+			<guid isPermaLink="true">https://flex.aplikko.com/pages/various/typography</guid>
+			<description><![CDATA[<p><img src="https://picsum.photos/720/480?image=20" /></p><div class="row">
+						<div class="col-md-6">
+							<h1>H1 Heading example</h1>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-6">
+							<h2>H2 Heading example</h2>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<h3>H3 Heading example</h3>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-6">
+							<h4>H4 Heading example</h4>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<h5>H5 Heading example</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-6">
+							<h6>H6 Heading example</h6>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+
+				</div>
+				<!-- End Headings -->
+				
+<hr />
+
+				<div class="html-style">					
+
+					<p>The dream mentioned previously in this chapter, and the dreams in the chapter on the subconscious, are all fairly easy to understand and I used them because they clearly illustrate how dreams can guide us. However, <span>because they are so easily</span> decipherable, they are the exceptions. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+
+				</div>
+				
+				<div class="break20"></div>
+				
+				<h3>Bullets and Lists</h3>
+				<hr />
+
+				<div class="bullets">					
+					<div class="row">
+						<div class="col-md-3">
+							<ul class="site-list">
+								<li><i class="fa fa-check"></i>100% Fully responsive</li>
+								<li><i class="fa fa-check"></i>Article Post Formats</li>
+								<li><i class="fa fa-check"></i>Drag and Drop Page Builder</li>
+								<li><i class="fa fa-check"></i>Extended Portfolio</li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ul class="site-list li-circle">
+								<li>100% Fully responsive</li>
+								<li>Article Post Formats</li>
+								<li>Drag and Drop Page Builder</li>
+								<li>Extended Portfolio</li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ul class="site-list">
+								<li><i class="fa fa-angle-right"></i>100% Fully responsive layout</li>
+								<li><i class="fa fa-angle-right"></i>Article Post Formats</li>
+								<li><i class="fa fa-angle-right"></i>Drag and Drop Page Builder</li>
+								<li><i class="fa fa-angle-right"></i>Extended Portfolio</li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ol class="site-list li-ol">
+								<li>100% Fully responsive layout</li>
+								<li>Article Post Formats</li>
+								<li>Drag and Drop Page Builder</li>
+								<li>Extended Portfolio</li>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<!-- End Bullets -->
+				
+				<div class="break20"></div>
+
+				<div class="dropcaps">
+
+					<h3 class="main-title">Dropcaps</h3>
+					<hr />
+
+					<div class="row">
+						<div class="col-md-6 naked-drop">
+							<p><span>F</span>lex dream mentioned previously in this chapter, and the dreams in the chapter on the subconscious, are all fairly easy to understand and I used them because they clearly illustrate how dreams can guide us. However, because they are so easily decipherable, they are the exceptions. The dream mentioned previously in this chapter, and the dreams in the chapter on the subconscious, are all fairly easy to understand and I used them because they clearly illustrate how dreams can guide us.</p>
+						</div>
+						<div class="col-md-6 full-drop">
+							<p><span>T</span>he dream mentioned previously in this chapter, and the dreams in the chapter on the subconscious, are all fairly easy to understand and I used them because they clearly illustrate how dreams can guide us. However, because they are so easily decipherable, they are the exceptions. The dream mentioned previously in this chapter, and the dreams in the chapter on the subconscious, are all fairly easy to understand and I used them because they clearly illustrate how dreams can guide us.</p>
+						</div>
+					</div>
+					
+				</div>
+				<!-- End Dropcaps -->
+				
+				<div class="break20"></div>
+
+				<div class="blockquotes">
+					
+					<h3>Blockquotes</h3>
+					<hr />
+
+					<blockquote>
+						Even the all-powerful Pointing from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Queequeg flows by their place and supplies.
+					</blockquote>
+				</div>
+				
+				
+				<div class="break20"></div>
+
+				<div class="columns">					
+					<h3>Columns</h3>
+<hr />
+
+					<div class="row">
+						<div class="col-md-6">
+							<h5>1/2 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-6">
+							<h5>1/2 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+<div class="break20"></div>
+					<div class="row">
+						<div class="col-md-4">
+							<h5>1/3 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-4">
+							<h5>1/3 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-4">
+							<h5>1/3 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+<div class="break20"></div>
+					<div class="row">
+						<div class="col-md-3">
+							<h5>1/4 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-3">
+							<h5>1/4 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-3">
+							<h5>1/4 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+						<div class="col-md-3">
+							<h5>1/4 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+<div class="break20"></div>
+					<div class="row">
+						<div class="col-md-4">
+							<h5>1/3 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+						<div class="col-md-8">
+							<h5>2/3 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+						</div>
+					</div>
+<div class="break20"></div>
+					<div class="row">
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+							
+						</div>
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+						<div class="col-md-2">
+							<h5>1/6 Сolumn</h5>
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+						</div>
+					</div>
+<div class="break20"></div>]]></description>
+			<author>flex@website.com (Flex)</author>
+			<category>Pages</category>
+			<pubDate>Sat, 02 Jan 2016 12:32:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
