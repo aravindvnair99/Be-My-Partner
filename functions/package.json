@@ -1,25 +1,53 @@
 {
-  "name": "functions",
-  "description": "Cloud Functions for Firebase",
-  "scripts": {
-    "lint": "eslint .",
-    "serve": "firebase serve --only functions",
-    "shell": "firebase functions:shell",
-    "start": "npm run shell",
-    "deploy": "firebase deploy --only functions",
-    "logs": "firebase functions:log"
-  },
-  "engines": {
-    "node": "8"
-  },
-  "dependencies": {
-    "firebase-admin": "^8.8.0",
-    "firebase-functions": "^3.1.0"
-  },
-  "devDependencies": {
-    "eslint": "^6.7.2",
-    "eslint-plugin-promise": "^4.0.1",
-    "firebase-functions-test": "^0.1.7"
-  },
-  "private": true
+	"name": "cartizon",
+	"version": "0.0.1",
+	"description": "Be My Partner",
+	"keywords": [
+		"website",
+    "services",
+    "charity"
+	],
+	"man": [
+		"../README.MD"
+	],
+	
+	"author": "Contributors",
+	"contributors": [
+		{
+			"name": "Aravind V Nair",
+			"url": "https://github.com/AravindVNair99"
+		},
+		{
+			"name": "Sriram Nuthi",
+			"url": "https://github.com/Nuthi-Sriram"
+		}
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": ""
+	},
+	"homepage": "",
+	"scripts": {
+		"lint": "eslint .",
+		"serve": "firebase serve --only functions",
+		"shell": "firebase functions:shell",
+		"start": "npm run shell",
+		"deploy": "firebase deploy --only functions",
+		"logs": "firebase functions:log"
+	},
+	"engines": {
+		"node": "8"
+	},
+	"dependencies": {
+		"ejs": "^3.0.1",
+		"express": "^4.17.1",
+		"firebase-admin": "^8.9.0",
+		"firebase-functions": "^3.3.0"
+	},
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"firebase-functions-test": "^0.1.7"
+	},
+	"private": true
 }
