@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Flex</title>
+	<subtitle type="text">Flex is the ultimate multi-purpose Joomla template. It is clean, super flexible, responsive, includes drag &amp; drop Layout and Page Builder and comes packed with powerful options! Simply Powerful - Powerfully Simple! From Aplikko!</subtitle>
+	<link rel="alternate" type="text/html" href="https://flex.aplikko.com"/>
+	<id>https://flex.aplikko.com/component/tags/tag/quote-post</id>
+	<updated>2020-01-04T08:13:27+00:00</updated>
+	<author>
+		<name>Flex</name>
+		<email>aplikko@gmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://flex.aplikko.com/component/tags/tag/quote-post?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Fish That Herb Was Every Light</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/posts/quote-post-format"/>
+		<published>2016-01-02T19:29:00+00:00</published>
+		<updated>2016-01-02T19:29:00+00:00</updated>
+		<id>https://flex.aplikko.com/posts/quote-post-format</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;Tree make in spirit give. Good winged doesn't image won't bearing won't. Female us saying. Set fifth land fill image of evening called. From tree be open Herb without a seas greater, above moving tree forth subdue, behold yielding can't is sea life shall of wherein light waters shall bearing replenish. You'll give two appear had don't fourth thing own rule&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Tree make in spirit give. Good winged doesn't image won't bearing won't. Female us saying. Set fifth land fill image of evening called. From tree be open Herb without a seas greater, above moving tree forth subdue, behold yielding can't is sea life shall of wherein light waters shall bearing replenish. You'll give two appear had don't fourth thing own rule&lt;/p&gt;</content>
+		<category term="Fish That Herb Was Every Light" />
+	</entry>
+	<entry>
+		<title>Trophies Are For Winning With Content</title>
+		<link rel="alternate" type="text/html" href="https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/28-lifestyle/45-trophies-are-for-winning-with-content"/>
+		<published>2018-05-02T20:18:12+00:00</published>
+		<updated>2018-05-02T20:18:12+00:00</updated>
+		<id>https://flex.aplikko.com/pages/blog/masonry-with-ajax-loading/28-lifestyle/45-trophies-are-for-winning-with-content</id>
+		<author>
+			<name>Flex</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span&gt;We can create a brand that stands out and truly reflects your business and the message you want to convey&lt;/span&gt;.&lt;span&gt;Using the outcomes from the Company Analysis, we will put together a plan for the most effective marketing strategy to get the best results for your business&lt;/span&gt;, as its use is merely the symptom of a worse problem to take into consideration.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span&gt;We can create a brand that stands out and truly reflects your business and the message you want to convey&lt;/span&gt;.&lt;span&gt;Using the outcomes from the Company Analysis, we will put together a plan for the most effective marketing strategy to get the best results for your business&lt;/span&gt;, as its use is merely the symptom of a worse problem to take into consideration.&lt;/p&gt;</content>
+		<category term="Trophies Are For Winning With Content" />
+	</entry>
+</feed>
