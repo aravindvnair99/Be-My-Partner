@@ -1,0 +1,13 @@
+jQuery(function(e){var s=e(".flex-presets").find("li");s.each(function(){e(this).find("a").on("click",function(a){a.preventDefault();var d=e(this).parent().data("preset");s.removeClass("active"),e(this).parent().addClass("active"),e(".sp-default-logo").removeAttr("src").attr("src",flex_template_uri+"/images/presets/preset"+d+"/logo.png"),e(".sp-retina-logo").removeAttr("src").attr("src",flex_template_uri+"/images/presets/preset"+d+"/logo@2x.png"),e(".preset").removeAttr("href").attr("href",flex_template_uri+"/css/presets/preset"+d+".css"),e.removeCookie(flex_template+"_preset"),e.cookie(flex_template+"_preset","preset"+d,{expires:1})})}),e("#flex-boxed").on("change",function(){e(this).is(":checked")?(e("body").addClass("layout-boxed").css({background:"#e9e9e9"}),
+e(".layout-boxed .body-innerwrapper").css({"max-width":"1070px"}),
+e(".layout-boxed section > div.container, .layout-boxed header > div.container, .layout-boxed footer > div.container, .layout-boxed header > div.container, .layout-boxed .sp-main-body > div.container").removeClass("container").addClass("container-fluid"),
+e(".layout-boxed .sppb-row-container").removeClass("sppb-row-container").addClass("sppb-container-inner"),
+e(".layout-boxed header #sp-menu").addClass("no-padding"),
+e(".layout-boxed #sp-left, .layout-boxed #sp-right").addClass("container-fluid"))
+:(e("body").removeClass("layout-boxed"),
+e(".body-innerwrapper").css({"max-width":"100%"}),e("section > div.container-fluid, header > div.container-fluid, footer > div.container-fluid, header > div.container-fluid, .sp-main-body > div.container-fluid").removeClass("container-fluid").addClass("container"),
+e(".sppb-container-inner").removeClass("sppb-container-inner").addClass("sppb-row-container"),
+e(".page-content > div.sppb-section > div").removeClass("sppb-row-container").addClass("sppb-container-inner"),
+e("header #sp-menu").removeClass("no-padding"),
+e("#sp-left, #sp-right").addClass("container"))}),
+e(".flex-bg-images li").on("click",function(s){s.preventDefault();var a=e(this);e("#flex-boxed").is(":checked")?(e("body").removeAttr("style").css({background:"url("+a.data("bg")+") no-repeat 50% 50%","background-attachment":"fixed","background-size":"cover"}),e(".flex-bg-images li").removeClass("active"),a.addClass("active")):alert("Select Boxed Layout")}),e("#flex-boxed").on("change",function(){e(this).is(":checked")?e("body").addClass("layout-boxed"):(e("body").removeClass("layout-boxed").removeAttr("style"),e(".flex-bg-images li").removeClass("active"))})});
